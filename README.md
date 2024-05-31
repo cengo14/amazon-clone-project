@@ -20,7 +20,7 @@ Bu proje, HTML ve CSS kullanarak Amazon temel alınarak oluşturulmuş basit bir
 
 ## Ekran Görüntüsü
 
-![Amazon Clone](desktop.gif)
+![Amazon Clone](desktopp.gif)
 
 
 
